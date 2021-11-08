@@ -10,7 +10,7 @@ This Repo will focus on the three most common types of tests in automated testin
 * Integration Tests: This is about testing whether or not multiple parts of the app are working properly together
     Integration tests mock sequences of user actions.
 
-* End to End (E2E) Tests: This is about testing interactions all the way from the front end to the backend
+* End to End (E2E) Tests: This is about testing interactions all the way from the front end to the backend 
 
 The goal of testing is to check whether an applocation begaves as expected. It allows us as devs, to 
 safeguard against unwanted behavior when changes are made. 
