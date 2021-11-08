@@ -1,4 +1,4 @@
-Within this Repository, we will be testing React code with technologies such as Cypress and Jest. 
+Within this Repository, we will be testing React code with various technologies such as Cypress and Jest. 
 
 Last Updated By Chris, 
 
