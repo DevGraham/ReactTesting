@@ -5,7 +5,7 @@ for React testing.
 
 This Repo will focus on the three most common types of tests in automated testing, which are - 
 
-* Unit tests: This is about testing a very small part of the code
+* Unit tests: This is about testing a very small part of the code (like buttons, etc);
 
 * Integration Tests: This is about testing whether or not multiple parts of the app are working properly together
 
