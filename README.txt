@@ -1,5 +1,8 @@
 Within this Repository, we will be testing React code with various technologies such as Cypress and Jest. 
 
+This Repository builds upon the starter code found in 'https://github.com/MitchelSt/react-testing-starter' 
+for React testing.
+
 The goal of testing is to check whether an applocation begaves as expected. It allows us as devs, to 
 safeguard against unwanted behavior when changes are made. 
 
