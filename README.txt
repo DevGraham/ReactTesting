@@ -1,7 +1,5 @@
 Within this Repository, we will be testing React code with various technologies such as Cypress and Jest. 
 
-Last Updated By Chris -- 
+Last Updated By Chris :) --  
 
 11/7/2021 @ 8:40 PM. 
-
-Now we shouldnt need to enter the password each time 
